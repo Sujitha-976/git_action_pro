@@ -1,5 +1,5 @@
 
-ame: CI/CD for Dockerized Flask App
+name: CI/CD for Dockerized Flask App
 
 on:
   push:
